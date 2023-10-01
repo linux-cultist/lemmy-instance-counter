@@ -1,4 +1,4 @@
-# lemmy-instance-counter
+# Lemmy Instance Counter
 
 Counts how many active lemmy instances there are.
 
